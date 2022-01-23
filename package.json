@@ -24,6 +24,6 @@
     "@types/node-fetch": "^2.5.9",
     "actions-on-google": "^1.2.1",
     "actions-on-google-ts": "*",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^3.1.1"
   }
 }
